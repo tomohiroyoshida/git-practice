@@ -1,2 +1,1 @@
-hoge
-hugahuga!
+## Omikuji
